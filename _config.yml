@@ -2,4 +2,5 @@ title: Hien Pham Le
 logo: /assets/images/lion.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
+#theme: jekyll-theme-modernist
