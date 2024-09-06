@@ -4,5 +4,6 @@ logo: /assets/images/lion.png
 #show_downloads: true
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 #theme: jekyll-theme-modernist
