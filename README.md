@@ -1,4 +1,4 @@
-# Data Analyst | Bussiness Intelligence Developer
+# Data Analysis Portfolio
 
 ### Education
 Bachelor's Bussiness Management
